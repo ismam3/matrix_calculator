@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/matrix_calculator/static/css/main.ec31cb4a.chunk.css",
+    "main.js": "/matrix_calculator/static/js/main.1f916f8b.chunk.js",
+    "main.js.map": "/matrix_calculator/static/js/main.1f916f8b.chunk.js.map",
+    "runtime-main.js": "/matrix_calculator/static/js/runtime-main.c558b7e9.js",
+    "runtime-main.js.map": "/matrix_calculator/static/js/runtime-main.c558b7e9.js.map",
+    "static/css/2.ec02d681.chunk.css": "/matrix_calculator/static/css/2.ec02d681.chunk.css",
+    "static/js/2.45167e00.chunk.js": "/matrix_calculator/static/js/2.45167e00.chunk.js",
+    "static/js/2.45167e00.chunk.js.map": "/matrix_calculator/static/js/2.45167e00.chunk.js.map",
+    "static/js/3.248c267f.chunk.js": "/matrix_calculator/static/js/3.248c267f.chunk.js",
+    "static/js/3.248c267f.chunk.js.map": "/matrix_calculator/static/js/3.248c267f.chunk.js.map",
+    "index.html": "/matrix_calculator/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/matrix_calculator/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.ec31cb4a.chunk.css.map": "/matrix_calculator/static/css/main.ec31cb4a.chunk.css.map",
+    "static/js/2.45167e00.chunk.js.LICENSE.txt": "/matrix_calculator/static/js/2.45167e00.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/matrix_calculator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c558b7e9.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.45167e00.chunk.js",
+    "static/css/main.ec31cb4a.chunk.css",
+    "static/js/main.1f916f8b.chunk.js"
+  ]
+}
